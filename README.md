@@ -1,45 +1,45 @@
 # todoList
-todoList with react, django and djangoframework
+Build todoList with react, django and djangoframework
 
-实现的功能：
-1. 增加一个待办事项
-2. 删除一个待办事项
-3. 标记一个待办事项为已完成
-4. 列出所有的待办事项
-5. 待办事项可以设置优先级
-6. 待办事项可以设置expire date
-7. 支持按照优先级排序
-8. 支持按照expire date排序
+Functions which are implemented：
+1. create one todo item
+2. delete one todo item
+3. mark one todo item as completed
+4. list put todo list
+5. support priority setting for todo item
+6. support expired date setting
+7. support ordering by priority
+8. support ordering by expired date
 
 
-1. 增加一个待办事项
+1. create one todo item
 
 ![image](https://github.com/ynyhxfo/todoList/blob/master/images/add.gif)
 
-2. 删除一个待办事项
+2. delete one todo item
 
 ![image](https://github.com/ynyhxfo/todoList/blob/master/images/delete.gif)
 
-3. 标记一个待办事项为已完成
+3. mark one todo item as completed
 
 ![image](https://github.com/ynyhxfo/todoList/blob/master/images/mark_finshed.gif)
 
-4. 列出所有的待办事项
+4. list out todo list
 
 ![image](https://github.com/ynyhxfo/todoList/blob/master/images/show_all.gif)
 
-5. 待办事项可以设置优先级
+5. support priority setting for todo item
 
 ![image](https://github.com/ynyhxfo/todoList/blob/master/images/priority_set.gif)
 
-6. 待办事项可以设置expire date
+6. support expired date setting
 
 ![image](https://github.com/ynyhxfo/todoList/blob/master/images/date_set.gif)
 
-7.支持按照优先级排序
+7.support ordering by priority
 
 ![image](https://github.com/ynyhxfo/todoList/blob/master/images/order_by_priority.gif)
 
-8. 支持按照expire date排序
+8. surport ordering by expired date
 
 ![image](https://github.com/ynyhxfo/todoList/blob/master/images/order_by_date.gif)
