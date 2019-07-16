@@ -1,5 +1,8 @@
 # todoList
-Build todoList with react, django and djangoframework
+Build todoList with react, django and djangoframework.
+Build frontend with react.
+Build backend with django.
+Connect frontend and backend with djangoframework.
 
 Functions which are implemented：
 1. create one todo item
